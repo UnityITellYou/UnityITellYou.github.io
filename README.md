@@ -28,6 +28,14 @@
 - [Torrent(Windows+OSX)](torrent/Unity-2019.3.7f1.torrent ':ignore :target=_blank')
 - [从Unity Hub安装](unityhub://2019.3.7f1/6437fd74d35d ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 
+### Unity 2019.2.21
+10 Feb, 2020
+
+- [下载器(Windows)](Installer/UnityDownloadAssistant-2019.2.21f1.exe ':ignore :target=_blank')
+- [下载器(OS X)](Installer/UnityDownloadAssistant-2019.2.21f1.dmg ':ignore :target=_blank')
+- [Torrent(Windows+OSX)](torrent/Unity-2019.2.21f1.torrent ':ignore :target=_blank')
+- [从Unity Hub安装](unityhub://2019.2.21f1/9d528d026557 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
+
 ## Unity 2018
 
 ### Unity 2018.4.20 (LTS)
