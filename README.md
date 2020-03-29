@@ -23,8 +23,8 @@
 ### Unity 2019.3.7
 26 Mar, 2020
 
-- [下载器(Windows)](Installer/UnityDownloadAssistant-2018.4.20f1.exe ':ignore :target=_blank')
-- [下载器(OS X)](Installer/UnityDownloadAssistant-2018.4.20f1.dmg ':ignore :target=_blank')
+- [下载器(Windows)](Installer/UnityDownloadAssistant-2019.3.7f1.exe ':ignore :target=_blank')
+- [下载器(OS X)](Installer/UnityDownloadAssistant--2019.3.7f1.dmg ':ignore :target=_blank')
 - [Torrent(Windows+OSX)](torrent/Unity-2019.3.7f1.torrent ':ignore :target=_blank')
 - [从Unity Hub安装](unityhub://2019.3.7f1/6437fd74d35d ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 
@@ -41,7 +41,7 @@
 ### Unity 2018.4.20 (LTS)
 27 Mar, 2020
 
-- [下载器(Windows)](Installer/UnityDownloadAssistant-2019.3.7f1.exe ':ignore :target=_blank')
-- [下载器(OS X)](Installer/UnityDownloadAssistant-2019.3.7f1.dmg ':ignore :target=_blank')
+- [下载器(Windows)](Installer/UnityDownloadAssistant-2018.4.20f1.exe ':ignore :target=_blank')
+- [下载器(OS X)](Installer/UnityDownloadAssistant-2018.4.20f1.dmg ':ignore :target=_blank')
 - [Torrent(Windows+OSX)](torrent/Unity-2018.4.20f1.torrent ':ignore :target=_blank')
 - [从Unity Hub安装](unityhub://2018.4.20f1/008688490035 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
