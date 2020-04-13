@@ -12,6 +12,11 @@
 >
 > 2. Unreal Engine 可以直接从源码编译
 
+## Xenko(https://xenko.com/)
+
+- 厂商：SiliconStudio
+- 性质：开源（MIT）
+
 ## [Godot](https://godotengine.org/)
 
 - 厂商：sfconservancy(https://sfconservancy.org/)

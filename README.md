@@ -18,7 +18,28 @@
 
 ?> 关于Unity Hub: 暂不收录Unity Hub下载地址，实测发现即使使用原版Unity Hub，在特殊地区的ip的网络中也会“变成”特殊地区的Unity Hub.
 
-## Unity 2019
+# 下载链接
+
+- [Unity 2019](#Unity2019)
+- [Unity 2018](#Unity2019)
+
+## Unity2019
+
+### Unity 2019.3.9
+8 Apr, 2020
+
+- [下载器(Windows)](Installer/UnityDownloadAssistant-2019.3.9f1.exe ':ignore :target=_blank')
+- [下载器(OS X)](Installer/UnityDownloadAssistant-2019.3.9f1.dmg ':ignore :target=_blank')
+- [Torrent(Windows+OSX)](torrent/Unity-2019.3.9f1.torrent ':ignore :target=_blank')
+- [从Unity Hub安装](unityhub://2019.3.9f1/e6e740a1c473 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
+
+### Unity 2019.3.8
+6 Apr, 2020
+
+- [下载器(Windows)](Installer/UnityDownloadAssistant-2019.3.8f1.exe ':ignore :target=_blank')
+- [下载器(OS X)](Installer/UnityDownloadAssistant-2019.3.8f1.dmg ':ignore :target=_blank')
+- [Torrent(Windows+OSX)](torrent/Unity-2019.3.8f1.torrent ':ignore :target=_blank')
+- [从Unity Hub安装](unityhub://2019.3.8f1/4ba98e9386ed ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 
 ### Unity 2019.3.7
 26 Mar, 2020
@@ -36,7 +57,15 @@
 - [Torrent(Windows+OSX)](torrent/Unity-2019.2.21f1.torrent ':ignore :target=_blank')
 - [从Unity Hub安装](unityhub://2019.2.21f1/9d528d026557 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 
-## Unity 2018
+## Unity2018
+
+### Unity 2018.4.21 (LTS)
+9 Apr, 2020
+
+- [下载器(Windows)](Installer/UnityDownloadAssistant-2018.4.21f1.exe ':ignore :target=_blank')
+- [下载器(OS X)](Installer/UnityDownloadAssistant-2018.4.21f1.dmg ':ignore :target=_blank')
+- [Torrent(Windows+OSX)](torrent/Unity-2018.4.21f1.torrent ':ignore :target=_blank')
+- [从Unity Hub安装](unityhub://2018.4.21f1/fd3915227633 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 
 ### Unity 2018.4.20 (LTS)
 27 Mar, 2020
