@@ -21,7 +21,7 @@
 # 下载链接
 
 - [Unity 2019](#Unity2019)
-- [Unity 2018](#Unity2019)
+- [Unity 2018](#Unity2018)
 
 ## Unity2019
 
