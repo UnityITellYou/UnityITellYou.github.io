@@ -25,6 +25,12 @@
 
 ## Unity2019
 
+### Unity 2019.3.14
+18 May, 2020
+
+- [从Unity Hub安装](unityhub://2019.3.14f1/2b330bf6d2d8 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
+- 下载器和Torrent文件请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
+
 ### Unity 2019.3.13
 6 May, 2020
 
@@ -90,6 +96,12 @@
 - [从Unity Hub安装](unityhub://2019.2.21f1/9d528d026557 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 
 ## Unity2018
+
+### Unity 2018.4.23
+19 May, 2020
+
+- [从Unity Hub安装](unityhub://2018.4.23f1/c9cf1a90e812 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
+- 下载器和Torrent文件请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
 
 ### Unity 2018.4.22 (LTS)
 24 Apr, 2020
