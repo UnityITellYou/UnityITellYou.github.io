@@ -30,12 +30,20 @@
 
 - [从Unity Hub安装](unityhub://2019.4.0f1/0af376155913 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 - 下载器和Torrent文件请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
+- MD5验证信息
+    - **Unity-2019.4.0f1.torrent**: `E10BA84651073C8681F31B2C359B0492`
+    - **UnityDownloadAssistant-2019.4.0f1.exe**: `705F28507A87487E61A26A6D1733BA12`
+    - **UnityDownloadAssistant-2019.4.0f1.dmg**: `7BF37FC5A0A6E039AFE06A3000E8E81A`
 
 ### Unity 2019.3.15
 28 May, 2020
 
 - [从Unity Hub安装](unityhub://2019.3.15f1/59ff3e03856d ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
 - 下载器和Torrent文件请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
+- MD5验证信息
+    - **Unity-2019.3.15f1.torrent**: `8588E3F15254717F7DDFB8F61B2C6621`
+    - **UnityDownloadAssistant-2019.3.15f1.exe**: `20FFC868D703E08A74BF64E19C594377`
+    - **UnityDownloadAssistant-2019.3.15f1.dmg**: `ED2A64B0356F3F424D1D2D7B09C14956`
 
 ### Unity 2019.3.14
 18 May, 2020
