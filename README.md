@@ -28,7 +28,7 @@
 ### Unity 2019.4.2 (LTS)
 1 Jul, 2020
 
-- [从Unity Hub安装](unityhub://2019.4.1f1/e6c045e14e4e ':ignore :target=_blank')
+- [从Unity Hub安装](unityhub://2019.4.2f1/20b4642a3455 ':ignore :target=_blank')
 - 下载器和Torrent文件请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
 - MD5验证信息
     - **Unity-2019.4.2f1.torrent**: `45236773C51F287C7804BACBE05B7269`
