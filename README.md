@@ -20,8 +20,21 @@
 
 # 下载链接
 
+- [Unity 2020](#Unity2020)
 - [Unity 2019](#Unity2019)
 - [Unity 2018](#Unity2018)
+
+## Unity2020
+
+### Unity 2020.1.0
+22 Jul 2020
+
+- [从Unity Hub安装](unityhub://2020.1.0f1/2ab9c4179772 ':ignore :target=_blank')
+- 官方暂未提供种子和安装器下载地址。
+
+<br>
+
+------
 
 ## Unity2019
 
@@ -134,6 +147,11 @@
 - [下载器(OS X)](Installer/UnityDownloadAssistant-2019.2.21f1.dmg ':ignore :target=_blank')
 - [Torrent(Windows+OSX)](torrent/Unity-2019.2.21f1.torrent ':ignore :target=_blank')
 - [从Unity Hub安装](unityhub://2019.2.21f1/9d528d026557 ':ignore :target=_blank') （确保全程不要使用特殊地区ip）（主动代理无效）
+
+
+<br>
+
+------
 
 ## Unity2018
 
