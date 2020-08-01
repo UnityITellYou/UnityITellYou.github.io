@@ -30,7 +30,8 @@
 22 Jul 2020
 
 - [从Unity Hub安装](unityhub://2020.1.0f1/2ab9c4179772 ':ignore :target=_blank')
-- 官方暂未提供种子和安装器下载地址。
+- 下载器请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
+- 官方暂未提供Torrent种子下载地址。
 
 <br>
 
