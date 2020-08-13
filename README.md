@@ -27,11 +27,11 @@
 ## Unity2020
 
 
-### Unity 2020.1.1
+### Unity 2020.1.2
 12 Aug, 2020
 
 - [从Unity Hub安装](unityhub://2020.1.2f1/7b32bc54ba47 ':ignore :target=_blank')
-- 下载器和Torrent文件请前往[Release地址](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)下载.
+- 下载器和Torrent文件请前往[Release地址](https://github.com/UnityITellYou/UnityITellYou.github.io/releases/tag/2020.1.2f1)下载.
 
 ### Unity 2020.1.1
 5 Aug, 2020
