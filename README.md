@@ -26,6 +26,19 @@
 
 ## Unity2020
 
+
+### Unity 2020.1.1
+12 Aug, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.2f1/7b32bc54ba47 ':ignore :target=_blank')
+- 下载器和Torrent文件请前往[Release地址](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)下载.
+
+### Unity 2020.1.1
+5 Aug, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.1f1/2285c3239188 ':ignore :target=_blank')
+- 下载器和Torrent文件请前往[Release地址](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)下载.
+
 ### Unity 2020.1.0
 22 Jul 2020
 
@@ -38,6 +51,20 @@
 ------
 
 ## Unity2019
+
+### Unity 2019.4.8 (LTS)
+12 Aug, 2020
+
+- [从Unity Hub安装](unityhub://2019.4.8f1/60781d942082 ':ignore :target=_blank')
+- 下载器请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
+- 官方暂未提供Torrent种子下载地址。
+
+### Unity 2019.4.7 (LTS)
+5 Aug, 2020
+
+- [从Unity Hub安装](unityhub://2019.4.7f1/e992b1a16e65 ':ignore :target=_blank')
+- 下载器请前往Releases地址下载：[https://github.com/UnityITellYou/UnityITellYou.github.io/releases](https://github.com/UnityITellYou/UnityITellYou.github.io/releases)
+- 官方暂未提供Torrent种子下载地址。
 
 ### Unity 2019.4.2 (LTS)
 1 Jul, 2020
