@@ -26,6 +26,35 @@
 
 ## Unity2020
 
+### Unity 2020.1.8
+7 Oct, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.8f1/22e8c0b0c3ec ':ignore :target=_blank')
+
+### Unity 2020.1.7
+1 Oct, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.7f1/064ffcdb64ad ':ignore :target=_blank')
+
+### Unity 2020.1.6
+16 Sep, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.6f1/fc477ca6df10 ':ignore :target=_blank')
+
+### Unity 2020.1.5
+10 Sep, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.5f1/e025938fdedc ':ignore :target=_blank')
+
+### Unity 2020.1.4
+1 Sep, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.4f1/fa717bb873ec ':ignore :target=_blank')
+
+### Unity 2020.1.3
+21 Aug, 2020
+
+- [从Unity Hub安装](unityhub://2020.1.3f1/cf5c4788e1d8 ':ignore :target=_blank')
 
 ### Unity 2020.1.2
 12 Aug, 2020
@@ -51,6 +80,26 @@
 ------
 
 ## Unity2019
+
+### Unity 2019.4.12 (LTS)
+7 Oct, 2020
+
+- [从Unity Hub安装](unityhub://2019.4.12f1/225e826a680e ':ignore :target=_blank')
+
+### Unity 2019.4.11 (LTS)
+23 Sep, 2020
+
+- [从Unity Hub安装](unityhub://2019.4.11f1/2d9804dddde7 ':ignore :target=_blank')
+
+### Unity 2019.4.10 (LTS)
+10 Sep, 2020
+
+- [从Unity Hub安装](unityhub://2019.4.10f1/5311b3af6f69 ':ignore :target=_blank')
+
+### Unity 2019.4.9 (LTS)
+26 Aug, 2020
+
+- [从Unity Hub安装](unityhub://2019.4.9f1/50fe8a171dd9 ':ignore :target=_blank')
 
 ### Unity 2019.4.8 (LTS)
 12 Aug, 2020
