@@ -18,7 +18,7 @@ jobs:
           # 注意替换为你的 GitHub 源仓库地址
           source-repo: https://github.com/UnityITellYou/UnityITellYou.github.io.git
           # 注意替换为你的 Gitee 目标仓库地址
-          destination-repo: git@gitee.com:unityitellyou/unityitellyou.gitee.io.git
+          destination-repo: git@gitee.com:unityitellyou/unityitellyou.git
 
       # - name: Build Gitee Pages
       #   uses: yanglbme/gitee-pages-action@main
