@@ -1,0 +1,179 @@
+﻿/*页面基础*/
+
+[data-bs-color-scheme=dark] body {
+    background-color: #000000;
+}
+
+/*按钮们*/
+
+/*基础按钮*/
+
+[data-bs-color-scheme=dark] .btn-primary {
+    background-color: #2080d0;
+}
+
+    [data-bs-color-scheme=dark] .btn-primary:hover {
+        background-color: #1070c0;
+    }
+
+    [data-bs-color-scheme=dark] .btn-primary:focus {
+        background-color: #1575c5;
+    }
+
+[data-bs-color-scheme=dark] .btn-success {
+    background-color: #63e2b7;
+}
+
+    [data-bs-color-scheme=dark] .btn-success:hover {
+        background-color: #7fe7c4;
+    }
+
+    [data-bs-color-scheme=dark] .btn-success:hover {
+        background-color: #7fe7c4;
+    }
+
+
+
+[data-bs-color-scheme=dark] .btn-warning {
+    background-color: #f2c97d;
+}
+
+[data-bs-color-scheme=dark] .btn-light {
+    background-color: #f8f9fa;
+    color: #1e1e1e;
+}
+
+[data-bs-color-scheme=dark] .btn-dark {
+    border-color: #4f4f52;
+}
+
+[data-bs-color-scheme=dark] .btn-link {
+    color: #76c0e6;
+}
+
+
+/*Outline按钮*/
+
+[data-bs-color-scheme=dark] .btn-outline-primary {
+    color: #349bee;
+    border-color: #349bee;
+}
+
+    [data-bs-color-scheme=dark] .btn-outline-primary:hover {
+        background-color: #1070c0;
+    }
+
+[data-bs-color-scheme=dark] .btn-outline-secondary {
+    color: #c1c1b5;
+    border-color: #9e9e9e;
+}
+
+[data-bs-color-scheme=dark] .btn-outline-success {
+    border-color: #63e2b7;
+    color: #63e2b7;
+}
+
+    [data-bs-color-scheme=dark] .btn-outline-success:hover {
+        background-color: #7fe7c4;
+    }
+
+    [data-bs-color-scheme=dark] .btn-outline-success:hover {
+        background-color: #7fe7c4;
+    }
+
+[data-bs-color-scheme=dark] .btn-outline-danger {
+    border-color: #e57f82;
+    color: #e57f82;
+}
+
+    [data-bs-color-scheme=dark] .btn-outline-danger:hover {
+        background-color: #e57f82;
+        border-color: #e57f82;
+    }
+
+[data-bs-color-scheme=dark] .btn-outline-light {
+    border-color: #f8f9fa;
+    color: #f8f9fa;
+}
+
+[data-bs-color-scheme=dark] .btn-outline-info {
+    border-color: #76c0e6;
+    color: #76c0e6;
+}
+
+[data-bs-color-scheme=dark] .btn-outline-dark {
+    color: #d5d5d6;
+    border-color: #4f4f52;
+}
+
+/*卡片*/
+[data-bs-color-scheme=dark] .card {
+    background-color: #18181c;
+}
+
+
+/*文本色*/
+[data-bs-color-scheme=dark] .text-primary {
+    color: #76c0e6 !important;
+}
+
+[data-bs-color-scheme=dark] .text-secondary {
+    color: #abb4be !important;
+}
+
+[data-bs-color-scheme=dark] .text-success {
+    color: #6ce3b7 !important;
+}
+
+[data-bs-color-scheme=dark] .text-danger {
+    color: #e57f82 !important;
+}
+[data-bs-color-scheme=dark] .text-warning {
+    color: #f0c981 !important;
+}
+
+[data-bs-color-scheme=dark] .text-info {
+    color: #2da2b7 !important;
+}
+
+[data-bs-color-scheme=dark] .text-light {
+    color: #f8f9fa !important;
+}
+
+[data-bs-color-scheme=dark] .text-dark {
+    color: #9e9e9e !important;
+}
+
+/*Colored links*/
+
+[data-bs-color-scheme=dark] .link-primary {
+    color: #76c0e6 !important;
+}
+
+[data-bs-color-scheme=dark] .link-secondary {
+    color: #abb4be !important;
+}
+
+[data-bs-color-scheme=dark] .link-success {
+    color: #6ce3b7 !important;
+}
+
+[data-bs-color-scheme=dark] .link-danger {
+    color: #e57f82 !important;
+}
+
+[data-bs-color-scheme=dark] .link-warning {
+    color: #f0c981 !important;
+}
+
+[data-bs-color-scheme=dark] .link-info {
+    color: #2da2b7 !important;
+}
+
+[data-bs-color-scheme=dark] .link-light {
+    color: #f8f9fa !important;
+}
+
+[data-bs-color-scheme=dark] .link-dark {
+    color: #9e9e9e !important;
+}
